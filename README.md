@@ -1,6 +1,6 @@
 ### Yo! 👋
 - I work in the Open Source Program Office (OSPO) at Progressive Insurance
-- Currently focusing on Golang, AWS, and Terraform
+- Currently focusing on Golang, AWS, Terraform, and Github Actions
 - Embrace the chaos of building software! ☕ 
 
 <p align="center">
