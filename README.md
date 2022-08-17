@@ -3,4 +3,6 @@
 - Currently focusing on Golang, AWS, and Terraform
 - Let's build some software!
 
-![giphy](https://user-images.githubusercontent.com/8650838/185036413-4c2fd7ec-b8f3-40d1-82b0-08fa9aa6b596.gif)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/8650838/185037071-543daad4-b372-46d6-8049-976299643f7a.gif" alt="ship-it" />
+</p>
