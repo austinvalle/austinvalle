@@ -1,4 +1,5 @@
 ### Yo! 👋
+- I work on the Terraform DevEx team at HashiCorp
 - Currently focusing on Golang, AWS, Terraform, and Github Actions
 - Embrace the chaos of building software! ☕ 
 
